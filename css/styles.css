@@ -20,12 +20,14 @@ background-position: center;
 }
 
 .sidebar {
+	background-color: #8290BC;
 	order: 1;
 	flex: 1;
 	padding: 1.5em;
 }
 
 .content {
+	background-color: #B7C4BE;
 	order: 1;
 	flex: 5;
 	padding: 1.5em;
